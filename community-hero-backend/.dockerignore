@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+contributions_ledger.json
+points_ledger.json
+system_logs.json
+Dockerfile
+.dockerignore

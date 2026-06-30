@@ -1,0 +1,26 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Backend Exclusions
+community-hero-backend/.venv/
+community-hero-backend/__pycache__/
+community-hero-backend/*.pyc
+community-hero-backend/*.pyo
+community-hero-backend/.env
+community-hero-backend/contributions_ledger.json
+community-hero-backend/points_ledger.json
+community-hero-backend/system_logs.json
+
+# Frontend Exclusions
+community-hero-frontend/node_modules/
+community-hero-frontend/.next/
+community-hero-frontend/out/
+community-hero-frontend/build/
+community-hero-frontend/tsconfig.tsbuildinfo
+community-hero-frontend/.env
+community-hero-frontend/.env.local
+community-hero-frontend/.env.development.local
+community-hero-frontend/.env.test.local
+community-hero-frontend/.env.production.local

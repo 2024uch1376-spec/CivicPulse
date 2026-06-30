@@ -1,0 +1,13 @@
+Section 1:
+ Systemic Anomaly Detection(The "AI Root-Cause Correlation Engine")
+  ⚠️ The Glaring Bug in your Image:
+   Look at Correlation #2 (Sewer Pipeline Warning). The text says: “Drainage complaints in District 2 spike 3.4 days prior to major sewer backups. 4 complaints logged today.”
+   The Problem: If 4 complaints were logged today, the system has explicitly detected a ticking time bomb (a major sewer backup happening in ~72 hours). 
+   Yet, the recommendation at the bottom just says:
+    RECOMMENDATION: PRE-EMPTIVELY FLUSH DISTRICT 2 MAINS. in static text.The Fix: You cannot show a critical 72-hour disaster warning without providing an immediate control mechanism. Add an active button right next to that recommendation: [ Execute Emergency Flush Order ]. Don't just warn the operator; give them the steering wheel.
+    
+    
+Section 2: Taxpayer ROI & Efficiency Ledger(The "Financial & Carbon Savings from AI Automations")
+  ⚠️ The Glaring Bugs in your Image (Crucial Polish Failures):The Halation Blindness (WCAG Failure): Inside the top two white boxes (AI DUPLICATE AUTO-MERGES and WASTED DISPATCHES AVOIDED), look at the primary numbers: 14 and 8. They are rendered in pure white or super faint pastel text against a solid white background. They are completely illegible. You need to flip those specific metric classes to a dark charcoal (#1E293B or text-slate-800).
+  The "White Card" Inconsistency: Your entire interface is a dark, moody command center (#0F172A). Suddenly, inside this specific ledger card, you dropped four blinding, rounded white #FFFFFF rectangles. It looks like an unstyled default component from a UI library.
+  The Fix: Invert those 4 internal boxes. Give them a deep slate background (e.g., #1E293B or bg-slate-800/50) with a thin 1px border (border-slate-700). Render the numbers 14, 8, $1,420.00, and -120kg in crisp, high-contrast typography (#F3F4F6 or #38BDF8).
